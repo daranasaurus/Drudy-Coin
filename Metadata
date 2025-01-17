@@ -1,17 +1,6 @@
 {
   "name": "Drudy Coin",
   "symbol": "DRUDY",
-  "uri": "https://github.com/daranasaurus/Drudy-Coin.git",
-  "description": "A fun memecoin for friends!",
-  "image": "https://ibb.co/4YR0XPv",
-  "seller_fee_basis_points": 500,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://ibb.co/4YR0XPv",
-        "type": "image/png"
-      }
-    ]
-  }
+  "description": “A fun memecoin for friends!",
+  "image": "https://ibb.co/4YR0XPv"
 }
